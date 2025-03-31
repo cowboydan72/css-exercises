@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+/*Man Image*/
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+/*Woman Image*/
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
