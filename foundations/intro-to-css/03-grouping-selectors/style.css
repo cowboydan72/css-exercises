@@ -1,0 +1,16 @@
+/*Unique to 1*/
+#yes {
+    background-color: black;
+    color: white;
+}
+
+/*Unique to 2*/
+#no {
+    background-color: yellow;
+}
+
+/*Shared*/
+.click {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
