@@ -1,0 +1,24 @@
+/*Number 2*/
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+/*Number 4*/
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #3dfc3d;
+}
+
+/*number class*/
+.number {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #fd47a2a4;
+
+}
+
+/*cooler class*/
+.cooler {
+    font-size: 24px;
+}
